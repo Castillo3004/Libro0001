@@ -1,8 +1,6 @@
-# Welcome to your Jupyter Book
+# Bienvenido a la página de Carlos Castillo
 
-This is a small sample book to give you a feel for how book content is
-structured.
-Cualquier cosa
+Esta es una pagina demo usando la libreria jupyter-book
 
 :::{note}
 Here is a note!
